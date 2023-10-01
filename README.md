@@ -18,7 +18,7 @@ The Comments CRUD Frontend Application is a practice project built using React a
 
 ## Demo
 
-Check out the live demo [here](https://github.com/shivam-kumar-shah/comments-frontend).
+Check out the live demo [here](https://shivam-kumar-shah.github.io/comments-frontend).
 
 ## Getting Started
 
